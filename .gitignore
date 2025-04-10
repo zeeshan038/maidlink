@@ -1,0 +1,5 @@
+node_modules
+.env
+
+# Ignore Firebase admin SDK credentials
+maidlink-e3e5b-firebase-adminsdk-fbsvc-57fae22d12.json
